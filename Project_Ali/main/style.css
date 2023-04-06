@@ -1,0 +1,73 @@
+
+img:hover{
+    transform: translateY(-10px);
+}
+li{
+transition: all 1s;
+    }
+li:hover{
+transform: scale(1.2);
+}
+.navcol{
+    background: linear-gradient( to right,#DC7015,#FBD27B) !important;
+}
+
+
+.card1{
+    border: 3px solid #573412 !important;
+    box-shadow: 1px 2px 6px 4px gray !important;
+}
+.card1,img{
+    transition: all 1s;
+    overflow: hidden;
+}
+
+.firstimg{
+    transition: all 2s; 
+}
+.firstimg:hover{
+    transform: scale(1.1);
+    overflow: hidden !important;  
+}
+.card2{
+    border: 3px solid #573412 !important;
+    box-shadow: 1px 2px 6px 4px gray !important;
+}
+.card2,img{
+    transition: all 1s;
+    overflow: hidden;
+}
+.secondimg{
+    transition: all 2s; 
+}
+.secondimg:hover{
+    transform: scale(1.1);
+    overflow: hidden !important;
+  }
+.card3{
+    border: 3px solid #573412 !important;
+    box-shadow: 1px 2px 6px 4px gray !important;
+}
+.card3,img{
+    transition: all 1s;
+    overflow: hidden;
+}
+.thirdimg{
+    transition: all 2s; 
+}
+.thirdimg:hover{
+    transform: scale(1.1);
+    overflow: hidden !important;
+  }
+html{
+    scroll-behavior: smooth;
+}
+body{
+    padding: 0;
+    margin: 0;
+}
+.wts{
+    box-shadow: 2px 3px 4px 4px gray;
+}
+
+ 
